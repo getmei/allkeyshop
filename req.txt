@@ -1,0 +1,2 @@
+elasticsearch==6.0.0
+Scrapy==1.4.0
